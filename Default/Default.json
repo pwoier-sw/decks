@@ -121,6 +121,7 @@
             "guid": "Dl)F2j:Ch>", 
             "note_model_uuid": "ae9bf972-02af-11e8-8f3b-78f29ef41d4b", 
             "tags": []
+<<<<<<< HEAD
         }, 
         {
             "__type__": "Note", 
@@ -133,6 +134,8 @@
             "guid": "K{Tiu-&vq-", 
             "note_model_uuid": "ae9bf972-02af-11e8-8f3b-78f29ef41d4b", 
             "tags": []
+=======
+>>>>>>> 536d81ef37421b955cc12db90197493097d36f7a
         }
     ]
 }
